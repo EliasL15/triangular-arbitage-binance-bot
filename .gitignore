@@ -1,0 +1,18 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# Ignore config files with secrets
+config_symbols.py
