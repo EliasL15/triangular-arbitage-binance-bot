@@ -1,5 +1,6 @@
 # Python bytecode
-./__pycache__/
+# Python bytecode
+__pycache__/
 *.py[cod]
 
 # VS Code settings
@@ -14,7 +15,6 @@
 # Log files
 *.log
 
-# Ignore config files with secrets
-config_symbols.py
-
-./venv/
+# Virtual environments
+venv/
+.venv/
