@@ -1,5 +1,5 @@
 # Python bytecode
-__pycache__/
+./__pycache__/
 *.py[cod]
 
 # VS Code settings
@@ -16,3 +16,5 @@ __pycache__/
 
 # Ignore config files with secrets
 config_symbols.py
+
+./venv/
